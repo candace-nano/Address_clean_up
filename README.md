@@ -17,4 +17,4 @@ Code doesn't include spaces for unique_ID, city, state, zip_code. It is ready to
 
 ## Address_clean_up_practice_data_set.csv  
 
-Practice data to see how the code is meant to preform
+Practice data with fake addresses to see how the code is meant to preform
