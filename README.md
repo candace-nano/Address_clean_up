@@ -1,12 +1,14 @@
-## Address_clean_up.sql
+## Address_clean_up
 
 **Written using Oracle & uses REGEX**  
   
 Intended to be validated with a USPS address verification tool after this code has been run.  
-Will not yield perfect results as it doesn't account for typos or improperly labeled secondary address unit designators
+Will not yield perfect results as it doesn't account for typos or improperly labeled secondary address unit designators 
 
-Code includes spaces for unique_ID, city, state, zip_code (these can be deleted if you don't need them in your code)  
 
+## Address_clean_up.sql
+
+Code includes spaces for unique_ID, city, state, zip_code (these can be deleted if you don't need them in your code) 
 
 ## Address_clean_up_for_practice_data_set.sql  
 
